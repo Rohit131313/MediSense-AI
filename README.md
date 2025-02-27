@@ -1,4 +1,4 @@
-# Agentic RAG
+# MediSense-AI
 
 ## Description
 Using LangGraph to build agentic workflow based on
