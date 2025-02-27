@@ -1,0 +1,8 @@
+langchain
+langchain-community
+pypdf
+google-generativeai
+pinecone
+langchain_pinecone
+langchain_google_genai
+langgraph
